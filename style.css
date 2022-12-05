@@ -1,0 +1,35 @@
+body {
+  font-family: "Outfit", sans-serif;
+  background: #d5e1ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 85.3%;
+  max-width: 320px;
+}
+
+.qr {
+  background: #ffffff;
+  padding: 16px 16px 40px;
+}
+
+.qr__text {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.qr__text--bold {
+  font-size: 22px;
+  font-weight: bold;
+  color: #1f314f;
+}
+
+.qr__text--light {
+  margin-top: 16px;
+  font-size: 15px;
+  letter-spacing: 0.1875px;
+  color: #7d889e;
+}
