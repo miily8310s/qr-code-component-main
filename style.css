@@ -23,6 +23,7 @@ body {
 .qr__img {
   width: 288px;
   height: 288px;
+  border-radius: 10px;
 }
 
 .qr__text {
